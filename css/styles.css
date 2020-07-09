@@ -10164,3 +10164,8 @@ section.resume-section .resume-section-content {
 .groupride-component {
   margin-top: 40px;
 }
+
+.disclamer-list {
+  margin-left: -35px;
+  list-style-type: none;
+}
