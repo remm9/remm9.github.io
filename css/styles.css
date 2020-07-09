@@ -10133,3 +10133,34 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+.project-image {
+  height: 300px;
+  margin-bottom: 10px;
+}
+
+#projects {
+  margin-bottom: 10px;
+}
+
+.technology {
+  display: flex;
+  flex-direction: row;
+}
+
+.technology-list {
+  margin-top: 4px;
+  margin-left: 10px;
+}
+
+#live-git-links {
+  display: flex;
+  flex-direction: row;
+  width: 15rem;
+  justify-content: space-between;
+  margin-top: -10px;
+}
+
+.groupride-component {
+  margin-top: 40px;
+}
