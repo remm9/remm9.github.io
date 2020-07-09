@@ -10183,3 +10183,24 @@ section.resume-section .resume-section-content {
   align-self: center;
   margin-bottom: 6px;
 }
+
+#resume-link {
+  /* width: 166px;
+  height: 66px; */
+  border: 1px solid #495057;
+  padding: 15px;
+  border-radius: 3.5px;
+  background-color: #495057;
+  color: white;
+  text-decoration: none;
+  margin-left: 30px;
+}
+
+#resume-link:hover {
+  border: #bd5d38 1px solid;
+  background-color: #bd5d38;
+}
+
+.social-links {
+  display: inline-flex;
+}
